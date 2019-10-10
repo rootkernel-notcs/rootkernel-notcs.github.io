@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://notcs.giantbranch.cn/"/>
-  <updated>2019-08-31T06:38:16.760Z</updated>
+  <updated>2019-10-10T14:03:50.384Z</updated>
   <id>http://notcs.giantbranch.cn/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>谈谈墨菲定律与量变到质变</title>
+    <link href="http://notcs.giantbranch.cn/2019/09/15/%E8%B0%88%E8%B0%88%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B%E4%B8%8E%E9%87%8F%E5%8F%98%E5%88%B0%E8%B4%A8%E5%8F%98/"/>
+    <id>http://notcs.giantbranch.cn/2019/09/15/谈谈墨菲定律与量变到质变/</id>
+    <published>2019-09-14T16:00:00.000Z</published>
+    <updated>2019-10-10T14:03:50.384Z</updated>
+    
+    <content type="html"><![CDATA[<p>为什么可以将这两个扯到一起呢，这是因为我在看李永乐老师下面一期视频的时候，觉得这两个可以扯到一起。</p><p><a href="https://www.bilibili.com/video/av66016732/" target="_blank" rel="noopener">理发还能被剪到耳朵？飞机注定发生空难吗？李永乐老师讲墨菲定律</a></p><p>墨菲定律的原句是：如果有两种或两种以上的方式去做某件事情，而其中一种选择方式将导致灾难，则必定有人会做出这种选择。<br><a id="more"></a><br>通俗点就是：凡是可能出错的事就一定会出错——任何一个事件，只要具有大于零的几率，无论概率是多小（甚至接近于0），就可确定它终有一天会发生。</p><h1 id="下面内容来源于视频的提取"><a href="#下面内容来源于视频的提取" class="headerlink" title="下面内容来源于视频的提取"></a>下面内容来源于视频的提取</h1><p>有一些例子非常耳熟：</p><ul><li>不洗车不下雨，一洗车就下雨</li><li>平时不逃课，老师不点名，基本一逃课，老师就点名</li></ul><p>李永乐老师还在数学上证明了下，用的是飞机空难的例子，为什么一定会发生空难。（计算如下图）</p><p><img src="http://pic.giantbranch.cn/pic/1570713681437.png" alt></p><p>假如空难概率5*10^-7，那么正常概率是0.9999995，n次正常的概率就是0.9999995^n</p><p>那么当n很大的时候，n次正常的概率就接近0了，所以有1次以上发生事故的概率就变得几乎必然发生了（当然这个n得很大了）。</p><p>假如一个人经常坐飞机，就算一生坐了1万次飞机，全安全概率还是很大的（99.5%），所以飞机还是最安全的交通工具。</p><p>还有一种墨菲定律的理解是：不好的结果可能数多于好的结果可能</p><ul><li><p>比如我们排队打饭，有10个窗口，总感觉自己的队伍比别人慢，因为我们选到最快的窗口的概率只有1/10</p></li><li><p>又比如幸福的家庭是相似的，而不幸的家庭各有各的不同（幸福需要很多条件，而不幸只需要有一个条件不满足，就是不幸的了，比如孩子学习不好）</p></li></ul><p>李老师最后说，对于涉及人身安全问题，需要警惕。比如开车玩手机，可能玩100次手机都没事，但是只要你持续玩下去，总有一天墨菲定律会发生作用的。</p><h1 id="进入正题"><a href="#进入正题" class="headerlink" title="进入正题"></a>进入正题</h1><p>现在说回墨菲定律与量变到质变，对于墨菲定律我们也不能一直往坏的事情想，我们可以往好的事情想</p><p>比如我们做一件事成功的概率是很低的，比如创业什么的，但是只要你不断地去做这个事情，你最后做成的概率是不是就很高了。这像极了量变到质变，只要量上来了，就会发生质的改变。</p><p>所以，只要一件事情不断去做是可以往好的方向发展，我们就应该不断地重复它，而一件事情不断去做是会往坏的方向发展的，我们一定避免去做。</p><p>好了，我是不是要去做往好的方向发展的事情了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;为什么可以将这两个扯到一起呢，这是因为我在看李永乐老师下面一期视频的时候，觉得这两个可以扯到一起。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/av66016732/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;理发还能被剪到耳朵？飞机注定发生空难吗？李永乐老师讲墨菲定律&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;墨菲定律的原句是：如果有两种或两种以上的方式去做某件事情，而其中一种选择方式将导致灾难，则必定有人会做出这种选择。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="墨菲定律" scheme="http://notcs.giantbranch.cn/tags/%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/"/>
+    
+      <category term="量变到质变" scheme="http://notcs.giantbranch.cn/tags/%E9%87%8F%E5%8F%98%E5%88%B0%E8%B4%A8%E5%8F%98/"/>
+    
+  </entry>
   
   <entry>
     <title>《薛兆丰经济学讲义》读完了，收获并不大</title>
@@ -84,8 +108,8 @@
   
   <entry>
     <title>观《美国商业大亨传奇》</title>
-    <link href="http://notcs.giantbranch.cn/2019/06/07/%E8%A7%82%E3%80%8A%E7%BE%8E%E5%9B%BD%E5%95%86%E4%B8%9A%E5%A4%A7%E4%BA%A8%E4%BC%A0%E5%A5%87%E3%80%8B/"/>
-    <id>http://notcs.giantbranch.cn/2019/06/07/观《美国商业大亨传奇》/</id>
+    <link href="http://notcs.giantbranch.cn/2019/06/08/%E8%A7%82%E3%80%8A%E7%BE%8E%E5%9B%BD%E5%95%86%E4%B8%9A%E5%A4%A7%E4%BA%A8%E4%BC%A0%E5%A5%87%E3%80%8B/"/>
+    <id>http://notcs.giantbranch.cn/2019/06/08/观《美国商业大亨传奇》/</id>
     <published>2019-06-07T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -105,8 +129,8 @@
   
   <entry>
     <title>读《原则》有感</title>
-    <link href="http://notcs.giantbranch.cn/2019/06/07/%E8%AF%BB%E3%80%8A%E5%8E%9F%E5%88%99%E3%80%8B%E6%9C%89%E6%84%9F/"/>
-    <id>http://notcs.giantbranch.cn/2019/06/07/读《原则》有感/</id>
+    <link href="http://notcs.giantbranch.cn/2019/06/08/%E8%AF%BB%E3%80%8A%E5%8E%9F%E5%88%99%E3%80%8B%E6%9C%89%E6%84%9F/"/>
+    <id>http://notcs.giantbranch.cn/2019/06/08/读《原则》有感/</id>
     <published>2019-06-07T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -147,8 +171,8 @@
   
   <entry>
     <title>读《深度工作》后我们到底能不能做到深度工作</title>
-    <link href="http://notcs.giantbranch.cn/2019/05/10/%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E3%80%8B%E5%90%8E%E6%88%91%E4%BB%AC%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E5%81%9A%E5%88%B0%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C/"/>
-    <id>http://notcs.giantbranch.cn/2019/05/10/读《深度工作》后我们到底能不能做到深度工作/</id>
+    <link href="http://notcs.giantbranch.cn/2019/05/11/%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E3%80%8B%E5%90%8E%E6%88%91%E4%BB%AC%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E5%81%9A%E5%88%B0%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C/"/>
+    <id>http://notcs.giantbranch.cn/2019/05/11/读《深度工作》后我们到底能不能做到深度工作/</id>
     <published>2019-05-10T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -167,8 +191,8 @@
   
   <entry>
     <title>用财务指标轻松选出好公司-摘录</title>
-    <link href="http://notcs.giantbranch.cn/2019/05/02/%E7%94%A8%E8%B4%A2%E5%8A%A1%E6%8C%87%E6%A0%87%E8%BD%BB%E6%9D%BE%E9%80%89%E5%87%BA%E5%A5%BD%E5%85%AC%E5%8F%B8-%E6%91%98%E5%BD%95/"/>
-    <id>http://notcs.giantbranch.cn/2019/05/02/用财务指标轻松选出好公司-摘录/</id>
+    <link href="http://notcs.giantbranch.cn/2019/05/03/%E7%94%A8%E8%B4%A2%E5%8A%A1%E6%8C%87%E6%A0%87%E8%BD%BB%E6%9D%BE%E9%80%89%E5%87%BA%E5%A5%BD%E5%85%AC%E5%8F%B8-%E6%91%98%E5%BD%95/"/>
+    <id>http://notcs.giantbranch.cn/2019/05/03/用财务指标轻松选出好公司-摘录/</id>
     <published>2019-05-02T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -189,8 +213,8 @@
   
   <entry>
     <title>读《世界文明大系：犹太文明》</title>
-    <link href="http://notcs.giantbranch.cn/2019/04/30/%E8%AF%BB%E3%80%8A%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E5%A4%A7%E7%B3%BB%EF%BC%9A%E7%8A%B9%E5%A4%AA%E6%96%87%E6%98%8E%E3%80%8B/"/>
-    <id>http://notcs.giantbranch.cn/2019/04/30/读《世界文明大系：犹太文明》/</id>
+    <link href="http://notcs.giantbranch.cn/2019/05/01/%E8%AF%BB%E3%80%8A%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E5%A4%A7%E7%B3%BB%EF%BC%9A%E7%8A%B9%E5%A4%AA%E6%96%87%E6%98%8E%E3%80%8B/"/>
+    <id>http://notcs.giantbranch.cn/2019/05/01/读《世界文明大系：犹太文明》/</id>
     <published>2019-04-30T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -210,8 +234,8 @@
   
   <entry>
     <title>炒股入门课程记录</title>
-    <link href="http://notcs.giantbranch.cn/2019/04/03/%E7%82%92%E8%82%A1%E5%85%A5%E9%97%A8%E8%AF%BE%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
-    <id>http://notcs.giantbranch.cn/2019/04/03/炒股入门课程记录/</id>
+    <link href="http://notcs.giantbranch.cn/2019/04/04/%E7%82%92%E8%82%A1%E5%85%A5%E9%97%A8%E8%AF%BE%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
+    <id>http://notcs.giantbranch.cn/2019/04/04/炒股入门课程记录/</id>
     <published>2019-04-03T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -232,8 +256,8 @@
   
   <entry>
     <title>听《沃顿商学院最受欢迎的谈判课》记录</title>
-    <link href="http://notcs.giantbranch.cn/2019/03/25/%E5%90%AC%E3%80%8A%E6%B2%83%E9%A1%BF%E5%95%86%E5%AD%A6%E9%99%A2%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E8%B0%88%E5%88%A4%E8%AF%BE%E3%80%8B%E8%AE%B0%E5%BD%95/"/>
-    <id>http://notcs.giantbranch.cn/2019/03/25/听《沃顿商学院最受欢迎的谈判课》记录/</id>
+    <link href="http://notcs.giantbranch.cn/2019/03/26/%E5%90%AC%E3%80%8A%E6%B2%83%E9%A1%BF%E5%95%86%E5%AD%A6%E9%99%A2%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E8%B0%88%E5%88%A4%E8%AF%BE%E3%80%8B%E8%AE%B0%E5%BD%95/"/>
+    <id>http://notcs.giantbranch.cn/2019/03/26/听《沃顿商学院最受欢迎的谈判课》记录/</id>
     <published>2019-03-25T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -254,8 +278,8 @@
   
   <entry>
     <title>知乎live：如何通过阅读识万物</title>
-    <link href="http://notcs.giantbranch.cn/2019/03/25/%E7%9F%A5%E4%B9%8Elive%EF%BC%9A%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E9%98%85%E8%AF%BB%E8%AF%86%E4%B8%87%E7%89%A9/"/>
-    <id>http://notcs.giantbranch.cn/2019/03/25/知乎live：如何通过阅读识万物/</id>
+    <link href="http://notcs.giantbranch.cn/2019/03/26/%E7%9F%A5%E4%B9%8Elive%EF%BC%9A%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E9%98%85%E8%AF%BB%E8%AF%86%E4%B8%87%E7%89%A9/"/>
+    <id>http://notcs.giantbranch.cn/2019/03/26/知乎live：如何通过阅读识万物/</id>
     <published>2019-03-25T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -277,8 +301,8 @@
   
   <entry>
     <title>《巴菲特法则》记录</title>
-    <link href="http://notcs.giantbranch.cn/2019/03/17/%E3%80%8A%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%B3%95%E5%88%99%E3%80%8B%E8%AE%B0%E5%BD%95/"/>
-    <id>http://notcs.giantbranch.cn/2019/03/17/《巴菲特法则》记录/</id>
+    <link href="http://notcs.giantbranch.cn/2019/03/18/%E3%80%8A%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%B3%95%E5%88%99%E3%80%8B%E8%AE%B0%E5%BD%95/"/>
+    <id>http://notcs.giantbranch.cn/2019/03/18/《巴菲特法则》记录/</id>
     <published>2019-03-17T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.553Z</updated>
     
@@ -298,8 +322,8 @@
   
   <entry>
     <title>竟然有人如此活着——《我，刀枪不入》</title>
-    <link href="http://notcs.giantbranch.cn/2019/03/03/%E7%AB%9F%E7%84%B6%E6%9C%89%E4%BA%BA%E5%A6%82%E6%AD%A4%E6%B4%BB%E7%9D%80%E2%80%94%E2%80%94%E3%80%8A%E6%88%91%EF%BC%8C%E5%88%80%E6%9E%AA%E4%B8%8D%E5%85%A5%E3%80%8B/"/>
-    <id>http://notcs.giantbranch.cn/2019/03/03/竟然有人如此活着——《我，刀枪不入》/</id>
+    <link href="http://notcs.giantbranch.cn/2019/03/04/%E7%AB%9F%E7%84%B6%E6%9C%89%E4%BA%BA%E5%A6%82%E6%AD%A4%E6%B4%BB%E7%9D%80%E2%80%94%E2%80%94%E3%80%8A%E6%88%91%EF%BC%8C%E5%88%80%E6%9E%AA%E4%B8%8D%E5%85%A5%E3%80%8B/"/>
+    <id>http://notcs.giantbranch.cn/2019/03/04/竟然有人如此活着——《我，刀枪不入》/</id>
     <published>2019-03-03T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -322,8 +346,8 @@
   
   <entry>
     <title>《成为沃伦巴菲特》电影琐碎的记录</title>
-    <link href="http://notcs.giantbranch.cn/2019/01/19/%E3%80%8A%E6%88%90%E4%B8%BA%E6%B2%83%E4%BC%A6%E5%B7%B4%E8%8F%B2%E7%89%B9%E3%80%8B%E7%94%B5%E5%BD%B1%E7%90%90%E7%A2%8E%E7%9A%84%E8%AE%B0%E5%BD%95/"/>
-    <id>http://notcs.giantbranch.cn/2019/01/19/《成为沃伦巴菲特》电影琐碎的记录/</id>
+    <link href="http://notcs.giantbranch.cn/2019/01/20/%E3%80%8A%E6%88%90%E4%B8%BA%E6%B2%83%E4%BC%A6%E5%B7%B4%E8%8F%B2%E7%89%B9%E3%80%8B%E7%94%B5%E5%BD%B1%E7%90%90%E7%A2%8E%E7%9A%84%E8%AE%B0%E5%BD%95/"/>
+    <id>http://notcs.giantbranch.cn/2019/01/20/《成为沃伦巴菲特》电影琐碎的记录/</id>
     <published>2019-01-19T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.553Z</updated>
     
@@ -347,8 +371,8 @@
   
   <entry>
     <title>观《亚投行之路》</title>
-    <link href="http://notcs.giantbranch.cn/2019/01/18/%E8%A7%82%E3%80%8A%E4%BA%9A%E6%8A%95%E8%A1%8C%E4%B9%8B%E8%B7%AF%E3%80%8B/"/>
-    <id>http://notcs.giantbranch.cn/2019/01/18/观《亚投行之路》/</id>
+    <link href="http://notcs.giantbranch.cn/2019/01/19/%E8%A7%82%E3%80%8A%E4%BA%9A%E6%8A%95%E8%A1%8C%E4%B9%8B%E8%B7%AF%E3%80%8B/"/>
+    <id>http://notcs.giantbranch.cn/2019/01/19/观《亚投行之路》/</id>
     <published>2019-01-18T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -370,8 +394,8 @@
   
   <entry>
     <title>读《撒切尔夫人传》的一点记录</title>
-    <link href="http://notcs.giantbranch.cn/2019/01/08/%E8%AF%BB%E3%80%8A%E6%92%92%E5%88%87%E5%B0%94%E5%A4%AB%E4%BA%BA%E4%BC%A0%E3%80%8B%E7%9A%84%E4%B8%80%E7%82%B9%E8%AE%B0%E5%BD%95/"/>
-    <id>http://notcs.giantbranch.cn/2019/01/08/读《撒切尔夫人传》的一点记录/</id>
+    <link href="http://notcs.giantbranch.cn/2019/01/09/%E8%AF%BB%E3%80%8A%E6%92%92%E5%88%87%E5%B0%94%E5%A4%AB%E4%BA%BA%E4%BC%A0%E3%80%8B%E7%9A%84%E4%B8%80%E7%82%B9%E8%AE%B0%E5%BD%95/"/>
+    <id>http://notcs.giantbranch.cn/2019/01/09/读《撒切尔夫人传》的一点记录/</id>
     <published>2019-01-08T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -393,8 +417,8 @@
   
   <entry>
     <title>权健与保健品行业</title>
-    <link href="http://notcs.giantbranch.cn/2019/01/04/%E6%9D%83%E5%81%A5%E4%B8%8E%E4%BF%9D%E5%81%A5%E5%93%81%E8%A1%8C%E4%B8%9A/"/>
-    <id>http://notcs.giantbranch.cn/2019/01/04/权健与保健品行业/</id>
+    <link href="http://notcs.giantbranch.cn/2019/01/05/%E6%9D%83%E5%81%A5%E4%B8%8E%E4%BF%9D%E5%81%A5%E5%93%81%E8%A1%8C%E4%B8%9A/"/>
+    <id>http://notcs.giantbranch.cn/2019/01/05/权健与保健品行业/</id>
     <published>2019-01-04T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.557Z</updated>
     
@@ -416,8 +440,8 @@
   
   <entry>
     <title>再见2018，2019你好</title>
-    <link href="http://notcs.giantbranch.cn/2018/12/31/%E5%86%8D%E8%A7%812018%EF%BC%8C2019%E4%BD%A0%E5%A5%BD/"/>
-    <id>http://notcs.giantbranch.cn/2018/12/31/再见2018，2019你好/</id>
+    <link href="http://notcs.giantbranch.cn/2019/01/01/%E5%86%8D%E8%A7%812018%EF%BC%8C2019%E4%BD%A0%E5%A5%BD/"/>
+    <id>http://notcs.giantbranch.cn/2019/01/01/再见2018，2019你好/</id>
     <published>2018-12-31T16:00:00.000Z</published>
     <updated>2019-06-17T12:46:53.553Z</updated>
     
@@ -437,28 +461,6 @@
       <category term="目标" scheme="http://notcs.giantbranch.cn/tags/%E7%9B%AE%E6%A0%87/"/>
     
       <category term="感想" scheme="http://notcs.giantbranch.cn/tags/%E6%84%9F%E6%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>听《学会工作》的记录</title>
-    <link href="http://notcs.giantbranch.cn/2018/12/19/%E5%90%AC%E3%80%8A%E5%AD%A6%E4%BC%9A%E5%B7%A5%E4%BD%9C%E3%80%8B%E7%9A%84%E8%AE%B0%E5%BD%95/"/>
-    <id>http://notcs.giantbranch.cn/2018/12/19/听《学会工作》的记录/</id>
-    <published>2018-12-19T16:00:00.000Z</published>
-    <updated>2019-06-17T12:46:53.553Z</updated>
-    
-    <content type="html"><![CDATA[<p>这个是听晓书童频道的，感觉不错，记录一下。</p><p><strong>设置“请勿打扰”标识</strong></p><p>比如告诉同事，我带着耳机就别找我，没带耳机可以随时找我<br><a id="more"></a><br><strong>设定界限</strong></p><p>在职场当中，划清界限，设立好自己的边界那是必须的。我们原本以为设定界限就是为了把别人给挡在外面，但其实界限的作用更多是让人们重视界限之内的东西。</p><p><strong>内心的猴子</strong></p><p>我们大脑有两个决策来源，一个是我们的大脑皮层，他负责理性思考，受成就感、自我发展需求、道德和伦理的驱动，发出符合逻辑的声音。另一个呢叫做蜥蜴脑，他负责生存，受原始动力的驱使，包括愤怒、恐惧和性冲动。它厌恶风险，一切的改变在它看来都有危险，为了保护我们它会尽量阻止我们冒险或做出改变。</p><p>那蜥蜴脑所产生的一系列想法，让我们焦虑、反抗、拖延和注意力分散，这些就是作者所说的，我们内心的猴子。</p><p>内心的猴子很容易厌倦、喜欢玩乐，比如最近的短视频，吃鸡就极大地满足了我们内心的猴子</p><p>与猴子打交道的方法：番茄工作法，吃掉青蛙（我们是不是都有一直拖着不想做的一件事，就像是一只赶不走的青蛙，它每天+如影随形，让人很不舒服。作者的方法是用一天最开始的时间，最好是一个早晨，把这只青蛙给拿出来解决掉，然后再去做其他的事情。）</p><p>给猴子的健康食品：写下让自己心怀感恩的事情，写下自己引以为豪的事情，并且与别人分享，比如说运动、沐浴阳光、买一份礼物、奖励自己喜欢的食物等等。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;这个是听晓书童频道的，感觉不错，记录一下。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;设置“请勿打扰”标识&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;比如告诉同事，我带着耳机就别找我，没带耳机可以随时找我&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="听后感" scheme="http://notcs.giantbranch.cn/tags/%E5%90%AC%E5%90%8E%E6%84%9F/"/>
     
   </entry>
   
